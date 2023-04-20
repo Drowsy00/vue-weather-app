@@ -8,8 +8,6 @@
 
 ・vue.js
 
-・css
-
 ・vite
 
 # 機能一覧
